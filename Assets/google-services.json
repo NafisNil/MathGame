@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "426224036163",
+    "firebase_url": "https://demoproject-ca0b3.firebaseio.com",
+    "project_id": "demoproject-ca0b3",
+    "storage_bucket": "demoproject-ca0b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426224036163:android:a184d8b051ee85a2",
+        "android_client_info": {
+          "package_name": "com.labar.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426224036163-rt18r0iard6qh1amdq454lh4nco5ur1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmJ-N_neEqkI3k-o3WaXU2aNtYulHSmzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
